@@ -17,7 +17,7 @@ For more than 15 years I have built operations from scratch across streaming, he
 
 * **Resume and cover letter checker:** a plain PASS or FAIL before anything goes out. [Try the demo](https://fjwilson46.github.io/checker.html)
 * **Operations Check Up:** a free 2 minute quiz that shows a business owner where they are losing time and money. [Take it](https://fjwilson46.github.io/quiz.html)
-* **Job match scorer:** scores a posting out of 100 and returns the gaps and a plan
+* **Job match scorer:** scores a posting out of 100 and returns the gaps and a plan. [Try the demo](https://fjwilson46.github.io/scorer.html)
 * **Custom Claude skills:** reusable skills for research, scoring, documentation, and reporting
 * **Workflow automation:** intake, triage, dashboards, and written procedures that hold after handoff
 
