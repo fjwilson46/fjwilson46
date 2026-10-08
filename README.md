@@ -22,7 +22,7 @@ For more than 15 years I have built operations from scratch across streaming, he
 
 * Portfolio: [fjwilson46.github.io](https://fjwilson46.github.io)
 * LinkedIn: [linkedin.com/in/fred-wilson-9479698](https://www.linkedin.com/in/fred-wilson-9479698)
-* Consulting: [Tin and Lou Operations Consulting](https://www.linkedin.com/company/tin-and-lou-operations-consulting)
+* Consulting: operations check ups and fixes, by email
 * Email: fjwilson46@gmail.com
 
 MBA. Certified SAFe 5 Agilist and Scrum Master. Lean Six Sigma White Belt. Fort Worth, Texas.
